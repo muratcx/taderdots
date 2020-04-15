@@ -1,0 +1,16 @@
+@import '../../sass/index';
+.footer{
+  box-sizing: border-box;
+  background:$colorBlack;
+  display: flex;
+  align-items: flex-center;
+  justify-content: center;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  width:100%;
+}
+.footerText{
+  color: $colorWhite;
+}

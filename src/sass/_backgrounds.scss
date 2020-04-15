@@ -1,0 +1,49 @@
+@mixin backgrounds-cover(){
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+@mixin background-blending-overlay {
+  background-blend-mode: overlay;
+  opacity: 0.2;
+}
+
+@mixin backgrounds-contain(){
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+@mixin background-zoom-in-anime {
+  will-change: transform;
+  &:hover,
+  &:focus{
+    transform: scale(1.1) translateZ(0);
+    backface-visibility: hidden;
+  }
+}
+
+@mixin backgrounds-grey-white-gradient(){
+	background: linear-gradient(to bottom,  rgba(141,141,141,1) 0%,rgba(255,255,255,1) 100%);
+}
+
+@mixin backgrounds-black-transparent-gradient(){
+	background: linear-gradient(to bottom,  rgba(0,0,0,0.5) 0%,rgba(255,255,255,0) 100%);
+}
+
+@mixin backgrounds-box-shadow-underneath {
+  &:hover,
+  &:focus{
+    box-shadow: 0px 5px 70px 0px rgba(141,141,141,0.7);
+    backface-visibility: hidden;
+  }
+}
+
+@mixin background-box-shadow {
+  &:hover,
+  &:focus{
+    box-shadow: 1px 5px 15px 0px rgba(0,0,0,0.22);
+    backface-visibility: hidden;
+  }
+}
