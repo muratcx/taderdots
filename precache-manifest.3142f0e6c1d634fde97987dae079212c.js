@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2155d4ebaeabe2dbe7d12266e3c02773",
+    "revision": "fa69f3481834dc765896c277411b1a52",
     "url": "/taderdots/index.html"
   },
   {
-    "revision": "d12340d2948d26d6eec1",
-    "url": "/taderdots/static/css/main.51e924ea.chunk.css"
+    "revision": "bf849e183b13c58c9542",
+    "url": "/taderdots/static/css/main.df9ba3bb.chunk.css"
   },
   {
     "revision": "a1485246b9a768adc321",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taderdots/static/js/2.38b07ebe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d12340d2948d26d6eec1",
+    "revision": "bf849e183b13c58c9542",
     "url": "/taderdots/static/js/main.c6c707f6.chunk.js"
   },
   {
