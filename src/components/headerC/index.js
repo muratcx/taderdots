@@ -13,7 +13,7 @@ export default class Header extends Component {
   render(props=this.props) {
     return (
       <div className='header'>
-        <a href='/'>
+        <a href='/taderdots/#/home'>
           <img src={this.img}></img>
           <div className='headerText'>
             <h1>{this.title}</h1>
@@ -24,20 +24,20 @@ export default class Header extends Component {
           items={[
             {
               title: 'HOME',
-              href: '/',
+              href: '/taderdots/#/home',
             },
             {
               title: 'ABOUT',
-              href: '/about',
+              href: '/taderdots/#/about',
             },
             {
               title: 'CONTACT',
-              href: '/contact',
+              href: '/taderdots/#/contact',
             },
             {
               title: 'ART',
-              href: '/art',
-            }
+              href: '/taderdots/#/art',
+            },
           ]}
         />
       </div>

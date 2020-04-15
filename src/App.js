@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter,Route,Switch,} from 'react-router-dom';
+import {HashRouter,Route,Switch,} from 'react-router-dom';
 
 import Home from './pages/home';
 import About from './pages/about';
@@ -7,15 +7,15 @@ import Contact from './pages/contact';
 import Art from './pages/art';
 
 const App=props => (
-  <BrowserRouter>
+  <HashRouter basename={`${process.env.PUBLIC_URL}/`}>
     <Switch>
-      <Route exact path='/home' component={Home} ></Route>
-      <Route exact path='/about' component={About}></Route>
-      <Route exact path='/contact' component={Contact}></Route>
-      <Route exact path='/art' component={Art}></Route>
-      <Route exact path='/' component={Home} ></Route>
+      <Route path='/home' component={Home} ></Route>
+      <Route path='/about' component={About}></Route>
+      <Route path='/contact' component={Contact}></Route>
+      <Route path='/art' component={Art}></Route>
+      <Route path='/' component={Home} ></Route>
     </Switch>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 //
