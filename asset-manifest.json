@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/taderdots/static/css/main.51e924ea.chunk.css",
-    "main.js": "/taderdots/static/js/main.76b61a46.chunk.js",
-    "main.js.map": "/taderdots/static/js/main.76b61a46.chunk.js.map",
+    "main.js": "/taderdots/static/js/main.2810cb3d.chunk.js",
+    "main.js.map": "/taderdots/static/js/main.2810cb3d.chunk.js.map",
     "runtime-main.js": "/taderdots/static/js/runtime-main.44dcf6d0.js",
     "runtime-main.js.map": "/taderdots/static/js/runtime-main.44dcf6d0.js.map",
     "static/js/2.38b07ebe.chunk.js": "/taderdots/static/js/2.38b07ebe.chunk.js",
     "static/js/2.38b07ebe.chunk.js.map": "/taderdots/static/js/2.38b07ebe.chunk.js.map",
     "index.html": "/taderdots/index.html",
-    "precache-manifest.fd738635d9ed6cf75fd46487bbf53336.js": "/taderdots/precache-manifest.fd738635d9ed6cf75fd46487bbf53336.js",
+    "precache-manifest.c910b8788cbf2a7bd2d4eada02d9d36c.js": "/taderdots/precache-manifest.c910b8788cbf2a7bd2d4eada02d9d36c.js",
     "service-worker.js": "/taderdots/service-worker.js",
     "static/css/main.51e924ea.chunk.css.map": "/taderdots/static/css/main.51e924ea.chunk.css.map",
     "static/js/2.38b07ebe.chunk.js.LICENSE.txt": "/taderdots/static/js/2.38b07ebe.chunk.js.LICENSE.txt",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.44dcf6d0.js",
     "static/js/2.38b07ebe.chunk.js",
     "static/css/main.51e924ea.chunk.css",
-    "static/js/main.76b61a46.chunk.js"
+    "static/js/main.2810cb3d.chunk.js"
   ]
 }
