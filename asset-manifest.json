@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/taderdots/static/css/main.51e924ea.chunk.css",
+    "main.js": "/taderdots/static/js/main.6a17cee1.chunk.js",
+    "main.js.map": "/taderdots/static/js/main.6a17cee1.chunk.js.map",
+    "runtime-main.js": "/taderdots/static/js/runtime-main.44dcf6d0.js",
+    "runtime-main.js.map": "/taderdots/static/js/runtime-main.44dcf6d0.js.map",
+    "static/js/2.e82d51a5.chunk.js": "/taderdots/static/js/2.e82d51a5.chunk.js",
+    "static/js/2.e82d51a5.chunk.js.map": "/taderdots/static/js/2.e82d51a5.chunk.js.map",
+    "index.html": "/taderdots/index.html",
+    "precache-manifest.f34896fa4441c1ea67784b415f31cb41.js": "/taderdots/precache-manifest.f34896fa4441c1ea67784b415f31cb41.js",
+    "service-worker.js": "/taderdots/service-worker.js",
+    "static/css/main.51e924ea.chunk.css.map": "/taderdots/static/css/main.51e924ea.chunk.css.map",
+    "static/js/2.e82d51a5.chunk.js.LICENSE.txt": "/taderdots/static/js/2.e82d51a5.chunk.js.LICENSE.txt",
+    "static/media/logoinvert.png": "/taderdots/static/media/logoinvert.6a353361.png",
+    "static/media/pg1-min.jpg": "/taderdots/static/media/pg1-min.dad974ee.jpg",
+    "static/media/pg1.jpg": "/taderdots/static/media/pg1.41c323f5.jpg",
+    "static/media/pg2-min.jpg": "/taderdots/static/media/pg2-min.6e6289cc.jpg",
+    "static/media/pg2.jpg": "/taderdots/static/media/pg2.153160db.jpg",
+    "static/media/pg3-min.jpg": "/taderdots/static/media/pg3-min.d84e9b9f.jpg",
+    "static/media/pg3.jpg": "/taderdots/static/media/pg3.efdf3c12.jpg",
+    "static/media/pg4-min.jpg": "/taderdots/static/media/pg4-min.c742af6c.jpg",
+    "static/media/pg4.jpg": "/taderdots/static/media/pg4.270c55c7.jpg",
+    "static/media/pg5-min.jpg": "/taderdots/static/media/pg5-min.de006e11.jpg",
+    "static/media/pg5.jpg": "/taderdots/static/media/pg5.c2eae369.jpg",
+    "static/media/pg6-min.jpg": "/taderdots/static/media/pg6-min.7660dd9b.jpg",
+    "static/media/pg6.jpg": "/taderdots/static/media/pg6.5a799028.jpg",
+    "static/media/pg7-min.jpg": "/taderdots/static/media/pg7-min.cebd1838.jpg",
+    "static/media/pg7.jpg": "/taderdots/static/media/pg7.038dc8e8.jpg",
+    "static/media/pg8-min.jpg": "/taderdots/static/media/pg8-min.7f36a9c9.jpg",
+    "static/media/pg8.jpg": "/taderdots/static/media/pg8.67ad9ac6.jpg",
+    "static/media/roticon.png": "/taderdots/static/media/roticon.956dbc34.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44dcf6d0.js",
+    "static/js/2.e82d51a5.chunk.js",
+    "static/css/main.51e924ea.chunk.css",
+    "static/js/main.6a17cee1.chunk.js"
+  ]
+}
