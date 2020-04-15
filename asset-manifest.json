@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/taderdots/static/css/main.df9ba3bb.chunk.css",
+    "main.css": "/taderdots/static/css/main.c8e3e130.chunk.css",
     "main.js": "/taderdots/static/js/main.c6c707f6.chunk.js",
     "main.js.map": "/taderdots/static/js/main.c6c707f6.chunk.js.map",
     "runtime-main.js": "/taderdots/static/js/runtime-main.44dcf6d0.js",
@@ -8,9 +8,9 @@
     "static/js/2.38b07ebe.chunk.js": "/taderdots/static/js/2.38b07ebe.chunk.js",
     "static/js/2.38b07ebe.chunk.js.map": "/taderdots/static/js/2.38b07ebe.chunk.js.map",
     "index.html": "/taderdots/index.html",
-    "precache-manifest.3142f0e6c1d634fde97987dae079212c.js": "/taderdots/precache-manifest.3142f0e6c1d634fde97987dae079212c.js",
+    "precache-manifest.2747456296d53555ec2578f95a3649f7.js": "/taderdots/precache-manifest.2747456296d53555ec2578f95a3649f7.js",
     "service-worker.js": "/taderdots/service-worker.js",
-    "static/css/main.df9ba3bb.chunk.css.map": "/taderdots/static/css/main.df9ba3bb.chunk.css.map",
+    "static/css/main.c8e3e130.chunk.css.map": "/taderdots/static/css/main.c8e3e130.chunk.css.map",
     "static/js/2.38b07ebe.chunk.js.LICENSE.txt": "/taderdots/static/js/2.38b07ebe.chunk.js.LICENSE.txt",
     "static/media/logoinvert.png": "/taderdots/static/media/logoinvert.6a353361.png",
     "static/media/pg1-min.jpg": "/taderdots/static/media/pg1-min.dad974ee.jpg",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.44dcf6d0.js",
     "static/js/2.38b07ebe.chunk.js",
-    "static/css/main.df9ba3bb.chunk.css",
+    "static/css/main.c8e3e130.chunk.css",
     "static/js/main.c6c707f6.chunk.js"
   ]
 }
