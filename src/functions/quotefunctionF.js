@@ -15,8 +15,9 @@ export default function QuoteF() {
     `“To live life, you need problems. If you get everything you want the minute you want it, then what’s the point of livin’?” – J`,
     `"Too much artsy, not enough fartsy. We talked about this, clown!" - Ringmaster`,
     `"Come on, bro, taking pain is easy. You just have to imagine that every bruise is a hickey from the universe. And everyone wants to get with the universe. - F"`,
-    `"You're just trying to make me feel sad so you can steal my tears when I cry, but I've got a heart of stone, buddy. I'm evil!" - F. Cyclops`,
-    `What, you egg? - M`
+    `"Make visible what, without you, might perhaps never have been seen." - R. Bresson`,
+    `"They who dream by day are cognizant of many things which escape those who dream only by night." - E. A. Poe`
+
   ];
   let rN=Math.floor(Math.random()*(quotes.length));
   return quotes[rN];

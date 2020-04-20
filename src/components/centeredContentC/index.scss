@@ -2,12 +2,14 @@
 
 .centeredContent{
   display: flex;
+  background: $colorBlack;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 4rem 1rem;
+  height: 100%;
+  width: 100%;
   .inner{
-    max-width: none;
+    max-width: 100%;
     margin: 0 1rem;
     h3{
       color: $colorWhite;

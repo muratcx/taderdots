@@ -1,0 +1,63 @@
+@import '../../sass/index';
+.lightbox-main{
+  padding: 4rem;
+  background-color: $colorBlack;
+  justify-content: center;
+  max-width: fit-content;
+  max-height: fit-content;
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    .lightbox-art1{
+      margin: 1rem;
+      img{
+        border-radius: 5px;
+      }
+    }
+    .lightbox-art2{
+      margin: 1rem;
+      img{
+        border-radius: 5px;
+      }
+    }
+    .lightbox-art3{
+      margin: 1rem;
+      img{
+        border-radius: 5px;
+      }
+    }
+    .lightbox-art4{
+      margin: 1rem;
+      img{
+        border-radius: 5px;
+      }
+    }
+    .lightbox-art5{
+      margin: 1rem;
+      img{
+        border-radius: 5px;
+      }
+    }
+    .lightbox-art6{
+      margin: 1rem;
+      img{
+        border-radius: 5px;
+      }
+    }
+    .lightbox-art7{
+      margin: 1rem;
+      img{
+        border-radius: 5px;
+      }
+    }
+    .lightbox-art8{
+      margin: 1rem;
+      img{
+        border-radius: 5px;
+      }
+    }
+  }
+}
