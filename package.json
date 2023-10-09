@@ -10,7 +10,8 @@
     "react-dom": "^16.13.1",
     "react-lightbox-component": "^1.2.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.69.0",
     "simple-react-lightbox": "^2.7.3-2"
   },
   "scripts": {
