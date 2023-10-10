@@ -24,19 +24,19 @@ export default class Header extends Component {
           items={[
             {
               title: 'HOME',
-              href: '/',
+              href: '#/',
             },
             {
               title: 'ABOUT',
-              href: '/about',
+              href: '#/about',
             },
             {
               title: 'CONTACT',
-              href: '/contact',
+              href: '#/contact',
             },
             {
               title: 'ART',
-              href: '/art',
+              href: '#/art',
             }
           ]}
         />
